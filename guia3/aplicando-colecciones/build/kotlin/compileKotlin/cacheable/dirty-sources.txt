@@ -1,0 +1,2 @@
+C:\Users\marti\OneDrive\Documentos\github\1.2.4-Guia3\guia3\aplicando-colecciones\src\main\java\com\example\aplicando_colecciones\1.3.4.kt
+C:\Users\marti\OneDrive\Documentos\github\1.2.4-Guia3\guia3\aplicando-colecciones\src\main\java\com\example\aplicando_colecciones\MyClass.kt
